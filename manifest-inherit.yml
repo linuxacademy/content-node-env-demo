@@ -1,7 +1,0 @@
-inherit: base-manifest.yml
-applications:
-- name: node-inherit-tthomsen
-  instances: 2
-  env:
-    FIRST_NAME: Han
-    LAST_NAME: Solo
